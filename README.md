@@ -34,5 +34,6 @@ RNN, CNN, Transformers, LSTM
 <h6>Big Data Stack</h6>
 Hadoop, Apache, PostgreSQL, AWS, MongoDB, Spark
 
+Few Links:
  * [The Complete Data Science LinkedIn Profile Guide - KDnuggets](https://www.kdnuggets.com/2019/11/data-science-linkedin-profile-guide.html)
  * []()
