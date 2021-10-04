@@ -37,4 +37,4 @@ Hadoop, Apache, PostgreSQL, AWS, MongoDB, Spark
 
 #### Few Links:
  * [The Complete Data Science LinkedIn Profile Guide - KDnuggets](https://www.kdnuggets.com/2019/11/data-science-linkedin-profile-guide.html)
- * []()
+ * [What is Data Science: A Turing Award Winner shares his view - Datanami](https://www.datanami.com/2021/08/18/what-is-data-science-a-turing-award-winner-shares-his-view/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210927+data+ai+nl&mkt_tok=MTA3LUZNUy0wNzAAAAF_xSMz1NCAc80_vsU-KRzX5n_aeNy1J3Juo7xhPuwJs2vZMcLye_5LubQ8XI8rdWveHKK3_ZzOapVN1G09ANhYJboY9GKdpdKuEkmJdMDspdIleZDT)
